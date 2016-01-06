@@ -19,4 +19,4 @@ Refer to <http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-start
 ## More information
 Alpine Linux: <https://registry.hub.docker.com/_/alpine/>
 
-AWS cli: <https://aws.amazon.com/cli/>
+AWS cli: <https://aws.amazon.com/cli/> 
